@@ -1,0 +1,13 @@
+Things the website should have
+home
+about us
+services
+testimoi`e
+faq
+contact us blog
+live chat
+
+
+
+use index page,index_finance,index_mp_classic_gradient_overlay,ndex_mp_classic_text_rotator(fullscreen)
+index_mp_fullscreen_gradient_overlay
